@@ -1,6 +1,6 @@
 /target/
 /src/test/java/
-/src/test/java/hellotest.java
+
 
 *.iml   //bunu ekledim    anything .iml file
 
